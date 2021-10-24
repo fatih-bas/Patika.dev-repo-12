@@ -1,2 +1,2 @@
 # kodluyoruzonikincirepo
-Get data from json
+Patika.dev Front-End Egitimi React Odev1
