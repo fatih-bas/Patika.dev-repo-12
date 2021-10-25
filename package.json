@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "kodluyoruzonikincirepo",
+  "version": "1.0.0",
+  "description": "Patika.dev Front-End Egitimi React Odev1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatih-bas/kodluyoruzonikincirepo.git"
+  },
+  "author": "fatih-bas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatih-bas/kodluyoruzonikincirepo/issues"
+  },
+  "homepage": "https://github.com/fatih-bas/kodluyoruzonikincirepo#readme",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
