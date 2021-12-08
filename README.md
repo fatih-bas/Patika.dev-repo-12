@@ -1,6 +1,6 @@
 # kodluyoruzonikincirepo
 >Patika.dev Front-End Patikası 
-- Get data with axios
+- Get data from json with axios
 
 
 ![](ss.jpg)
